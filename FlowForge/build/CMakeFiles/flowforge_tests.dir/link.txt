@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/flowforge_tests.dir/tests/test_main.cpp.o -o flowforge_tests  libflowforge_core.a
