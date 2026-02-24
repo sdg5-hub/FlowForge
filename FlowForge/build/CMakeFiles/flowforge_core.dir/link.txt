@@ -1,2 +1,0 @@
-/usr/bin/ar qc libflowforge_core.a CMakeFiles/flowforge_core.dir/src/sim/AStar.cpp.o CMakeFiles/flowforge_core.dir/src/sim/AgentSoA.cpp.o CMakeFiles/flowforge_core.dir/src/sim/FlowField.cpp.o CMakeFiles/flowforge_core.dir/src/sim/Grid.cpp.o CMakeFiles/flowforge_core.dir/src/sim/Simulation.cpp.o CMakeFiles/flowforge_core.dir/src/sim/SpatialGrid.cpp.o CMakeFiles/flowforge_core.dir/src/sim/Metrics.cpp.o
-/usr/bin/ranlib libflowforge_core.a
