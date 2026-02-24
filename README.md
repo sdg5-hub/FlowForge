@@ -2,9 +2,12 @@
 
 FlowForge is a real-time C++ traffic + crowd simulation engine built for hackathon demos where performance and clarity matter.
 
-![City Rush Hour Placeholder](assets/screenshot_city_rush_hour.png)
-![Evacuation Placeholder](assets/screenshot_evacuation.png)
-![Interactive Editing Placeholder](assets/screenshot_editing.png)
+![City Rush Hour Placeholder](<img width="2796" height="1538" alt="image" src="https://github.com/user-attachments/assets/51887c05-8a6b-464a-918e-95c1b10893c6" />
+
+![Evacuation Placeholder](<img width="2454" height="1310" alt="image" src="https://github.com/user-attachments/assets/07acc8f3-abce-4986-914e-e03849b91b09" />
+
+![Interactive Editing Placeholder](<img width="2574" height="1422" alt="image" src="https://github.com/user-attachments/assets/46f43a44-8090-487e-81d2-2a8cec2593e7" />
+
 
 ## Why this is impressive
 - Deterministic **fixed-step** simulation (60 Hz), seedable RNG
